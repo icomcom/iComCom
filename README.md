@@ -1,2 +1,1 @@
-# iComCom 
-Contact: icomcom.net@gmail.com
+contact: [icomcom.net@gmail.com](icomcom.net@gmail.com)
